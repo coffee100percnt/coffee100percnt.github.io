@@ -1,5 +1,5 @@
 # Features
-- Downloads from TikTok, YouTube, Instagram (Reels or IGTV)
+- Downloads from TikTok, YouTube, ~~Instagram (Reels or IGTV)~~ (requires login, will be fixed)
 - Can download multiple videos
 - Uses **aiogram** and **yt-dlp**
 
