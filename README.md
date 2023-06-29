@@ -1,7 +1,10 @@
 # Features
-- Downloads from TikTok, YouTube, ~~Instagram (Reels or IGTV)~~ (requires login, will be fixed)
+- Downloads from TikTok, YouTube, Instagram (Reels or IGTV)
 - Can download multiple videos
 - Uses **aiogram** and **yt-dlp**
+
+# Link
+Try it [here](https://t.me/LightDownloaderBot).
 
 # How do you download a video with it?
 1. Copy the link for the video and send it to the bot
